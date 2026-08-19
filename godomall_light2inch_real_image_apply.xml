@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <goods_data>
+    <goodsNo>1000000314</goodsNo>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm>더쎈 라이트 다운라이트 75mm(2인치) 매입등</goodsNm>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <scmNo>1</scmNo>
+    <cateCd>022004</cateCd>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <taxFreeFl>t</taxFreeFl>
+    <taxPercent>10.0</taxPercent>
+    <totalStock>9999</totalStock>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <salesUnit>1</salesUnit>
+    <minOrderCnt>1</minOrderCnt>
+    <maxOrderCnt>0</maxOrderCnt>
+    <restockFl>n</restockFl>
+    <mileageFl>c</mileageFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <payLimitFl>n</payLimitFl>
+    <goodsPrice>2600.00</goodsPrice>
+    <optionFl>y</optionFl>
+    <optionDisplayFl>d</optionDisplayFl>
+    <optionName>색상</optionName>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <deliverySno>1</deliverySno>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>n</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>0</detailInfoDelivery>
+    <detailInfoAS>0</detailInfoAS>
+    <detailInfoRefund>0</detailInfoRefund>
+    <detailInfoExchange>0</detailInfoExchange>
+    <allCateCd>022|022004</allCateCd>
+    <goodsNmList>더쎈 라이트 다운라이트 75mm(2인치) 매입등</goodsNmList>
+    <goodsNmDetail>더쎈 라이트 다운라이트 75mm(2인치) 매입등</goodsNmDetail>
+    <goodsSearchWord>매입등,다운라이트,천장매입등,매립등,매입등기구,거실조명등,플리커프리,포인트조명,액자조명,방등</goodsSearchWord>
+    <makerNm>동성조명</makerNm>
+    <originNm>중국</originNm>
+    <shortDescription>더쎈 라이트 2인치 다운라이트</shortDescription>
+    <goodsDescription>&lt;p style="text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/light2inch_thumb.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescription>
+    <goodsDescriptionMobile>&lt;p style="text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/light2inch_thumb.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescriptionMobile>
+    <imageStorage>local</imageStorage>
+    <imageUpdate>Y</imageUpdate>
+    <magnifyImageData idx="1" image_size_decrease="Y">https://chanyongcho.github.io/godomall-api-data/light2inch_thumb.jpg</magnifyImageData>
+    <detailImageData idx="1" image_size_decrease="Y">https://chanyongcho.github.io/godomall-api-data/light2inch_thumb.jpg</detailImageData>
+    <listImageData idx="1" image_size_decrease="Y">https://chanyongcho.github.io/godomall-api-data/light2inch_thumb.jpg</listImageData>
+    <mainImageData idx="1" image_size_decrease="Y">https://chanyongcho.github.io/godomall-api-data/light2inch_thumb.jpg</mainImageData>
+    <add1ImageData idx="1" image_size_decrease="Y">https://chanyongcho.github.io/godomall-api-data/light2inch_thumb.jpg</add1ImageData>
+    <add2ImageData idx="1" image_size_decrease="Y">https://chanyongcho.github.io/godomall-api-data/light2inch_thumb.jpg</add2ImageData>
+  </goods_data>
+</data>
