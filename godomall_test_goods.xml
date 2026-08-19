@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <goods_data>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm>API등록테스트-삭제예정</goodsNm>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <scmNo>1</scmNo>
+    <cateCd>022004</cateCd>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <taxFreeFl>t</taxFreeFl>
+    <taxPercent>10</taxPercent>
+    <totalStock>9999</totalStock>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <imageStorage>local</imageStorage>
+    <restockFl>n</restockFl>
+    <mileageFl>c</mileageFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <payLimitFl>n</payLimitFl>
+    <goodsPrice>1000</goodsPrice>
+    <optionFl>n</optionFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <shortDescription>Open API 상품등록 테스트</shortDescription>
+    <goodsDescription>&lt;p&gt;고도몰 Open API 상품등록 테스트 상품입니다.&lt;/p&gt;</goodsDescription>
+    <goodsDescriptionMobile>&lt;p&gt;고도몰 Open API 상품등록 테스트 상품입니다.&lt;/p&gt;</goodsDescriptionMobile>
+    <deliverySno>1</deliverySno>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>n</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>0</detailInfoDelivery>
+    <detailInfoAS>0</detailInfoAS>
+    <detailInfoRefund>0</detailInfoRefund>
+    <detailInfoExchange>0</detailInfoExchange>
+    <allCateCd>022004</allCateCd>
+  </goods_data>
+</data>
