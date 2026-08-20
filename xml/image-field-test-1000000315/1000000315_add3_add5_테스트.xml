@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <goods_data>
+    <goodsNo>1000000315</goodsNo>
+    <imageStorage>url</imageStorage>
+    <imageUpdate>Y</imageUpdate>
+    <add3ImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EC%B6%94%EA%B0%8003.jpg</add3ImageData>
+    <add4ImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EC%B6%94%EA%B0%8004.jpg</add4ImageData>
+    <add5ImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EC%B6%94%EA%B0%8005.jpg</add5ImageData>
+  </goods_data>
+</data>
