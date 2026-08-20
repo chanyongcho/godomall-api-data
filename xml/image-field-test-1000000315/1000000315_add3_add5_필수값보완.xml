@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <goods_data>
+    <goodsNo>1000000315</goodsNo>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm>더쎈 라이트 다운라이트 75mm(2인치) 매입등</goodsNm>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <scmNo>1</scmNo>
+    <cateCd>022004</cateCd>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <taxFreeFl>t</taxFreeFl>
+    <taxPercent>10</taxPercent>
+    <totalStock>9999</totalStock>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <salesUnit>1</salesUnit>
+    <minOrderCnt>1</minOrderCnt>
+    <maxOrderCnt>0</maxOrderCnt>
+    <restockFl>n</restockFl>
+    <mileageFl>c</mileageFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <payLimitFl>n</payLimitFl>
+    <goodsPrice>2600</goodsPrice>
+    <optionFl>n</optionFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <deliverySno>1</deliverySno>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>n</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>0</detailInfoDelivery>
+    <detailInfoAS>0</detailInfoAS>
+    <detailInfoRefund>0</detailInfoRefund>
+    <detailInfoExchange>0</detailInfoExchange>
+    <allCateCd>022004</allCateCd>
+    <goodsNmList>더쎈 라이트 다운라이트 75mm(2인치) 매입등</goodsNmList>
+    <goodsNmDetail>더쎈 라이트 다운라이트 75mm(2인치) 매입등</goodsNmDetail>
+    <shortDescription>더쎈 라이트 다운라이트 75mm(2인치) 매입등</shortDescription>
+    <imageStorage>url</imageStorage>
+    <imageUpdate>Y</imageUpdate>
+    <magnifyImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EB%8C%80%ED%91%9C.jpg</magnifyImageData>
+    <detailImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EB%8C%80%ED%91%9C.jpg</detailImageData>
+    <listImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EB%8C%80%ED%91%9C.jpg</listImageData>
+    <mainImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EB%8C%80%ED%91%9C.jpg</mainImageData>
+    <add1ImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EC%B6%94%EA%B0%8001.jpg</add1ImageData>
+    <add2ImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EC%B6%94%EA%B0%8002.jpg</add2ImageData>
+    <add3ImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EC%B6%94%EA%B0%8003.jpg</add3ImageData>
+    <add4ImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EC%B6%94%EA%B0%8004.jpg</add4ImageData>
+    <add5ImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%202%EC%9D%B8%EC%B9%98/%EB%9D%BC%EC%9D%B4%ED%8A%B82%EC%9D%B8%EC%B9%98_119c85_%EC%B6%94%EA%B0%8005.jpg</add5ImageData>
+  </goods_data>
+</data>
