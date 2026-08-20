@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <goods_data>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm>더쎈 매입등 라이트 95mm(4인치)</goodsNm>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <scmNo>1</scmNo>
+    <cateCd>022004</cateCd>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <taxFreeFl>t</taxFreeFl>
+    <taxPercent>10</taxPercent>
+    <totalStock>9999</totalStock>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <salesUnit>1</salesUnit>
+    <minOrderCnt>1</minOrderCnt>
+    <maxOrderCnt>0</maxOrderCnt>
+    <restockFl>n</restockFl>
+    <mileageFl>c</mileageFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <payLimitFl>n</payLimitFl>
+    <goodsPrice>3250</goodsPrice>
+    <optionFl>n</optionFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <deliverySno>1</deliverySno>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>n</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>0</detailInfoDelivery>
+    <detailInfoAS>0</detailInfoAS>
+    <detailInfoRefund>0</detailInfoRefund>
+    <detailInfoExchange>0</detailInfoExchange>
+    <allCateCd>022004</allCateCd>
+    <goodsNmList>더쎈 매입등 라이트 95mm(4인치)</goodsNmList>
+    <goodsNmDetail>더쎈 매입등 라이트 95mm(4인치)</goodsNmDetail>
+    <shortDescription>더쎈 매입등 라이트 95mm(4인치)</shortDescription>
+    <goodsDescription>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B801.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B802.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B803.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B804.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B805.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B806.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescription>
+    <goodsDescriptionMobile>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B801.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B802.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B803.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B804.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B805.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%83%81%EC%84%B806.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescriptionMobile>
+    <imageStorage>url</imageStorage>
+    <imageUpdate>Y</imageUpdate>
+    <magnifyImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EB%8C%80%ED%91%9C.jpg</magnifyImageData>
+    <listImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EB%8C%80%ED%91%9C.jpg</listImageData>
+    <mainImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EB%8C%80%ED%91%9C.jpg</mainImageData>
+    <detailImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EB%8C%80%ED%91%9C.jpg</detailImageData>
+    <detailImageData idx="2">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%B6%94%EA%B0%8001.jpg</detailImageData>
+    <detailImageData idx="3">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%B6%94%EA%B0%8002.jpg</detailImageData>
+    <detailImageData idx="4">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%B6%94%EA%B0%8003.jpg</detailImageData>
+    <detailImageData idx="5">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%B6%94%EA%B0%8004.jpg</detailImageData>
+    <detailImageData idx="6">https://chanyongcho.github.io/godomall-api-data/assets/%EB%9D%BC%EC%9D%B4%ED%8A%B8%2095mm%284%EC%9D%B8%EC%B9%98%29/%EB%9D%BC%EC%9D%B4%ED%8A%B895mm%284%EC%9D%B8%EC%B9%98%29_46b3bb_%EC%B6%94%EA%B0%8005.jpg</detailImageData>
+  </goods_data>
+</data>
