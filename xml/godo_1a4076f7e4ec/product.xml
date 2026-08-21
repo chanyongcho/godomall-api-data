@@ -24,7 +24,9 @@
     <goodsDiscountFl>n</goodsDiscountFl>
     <payLimitFl>n</payLimitFl>
     <goodsPrice>61200</goodsPrice>
-    <optionFl>n</optionFl>
+    <optionFl>y</optionFl>
+    <optionDisplayFl>d</optionDisplayFl>
+    <optionName>색상</optionName>
     <optionTextFl>n</optionTextFl>
     <addGoodsFl>n</addGoodsFl>
     <deliverySno>1</deliverySno>
@@ -58,6 +60,45 @@
     <imageStorage>url</imageStorage>
     <imageUpdate>Y</imageUpdate>
     <makerNm>동성조명</makerNm>
+    <optionData idx="1">
+      <optionNo>1</optionNo>
+      <optionValue1>주광색(하얀빛)</optionValue1>
+      <optionValue2/>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0</optionPrice>
+      <optionViewFl>y</optionViewFl>
+      <optionSellFl>y</optionSellFl>
+      <optionCode/>
+      <stockCnt>9999</stockCnt>
+    </optionData>
+    <optionData idx="2">
+      <optionNo>2</optionNo>
+      <optionValue1>주백색(태양빛)</optionValue1>
+      <optionValue2/>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0</optionPrice>
+      <optionViewFl>y</optionViewFl>
+      <optionSellFl>y</optionSellFl>
+      <optionCode/>
+      <stockCnt>9999</stockCnt>
+    </optionData>
+    <optionData idx="3">
+      <optionNo>3</optionNo>
+      <optionValue1>전구색(노란빛)</optionValue1>
+      <optionValue2/>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0</optionPrice>
+      <optionViewFl>y</optionViewFl>
+      <optionSellFl>y</optionSellFl>
+      <optionCode/>
+      <stockCnt>9999</stockCnt>
+    </optionData>
     <magnifyImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_1a4076f7e4ec/main.jpg</magnifyImageData>
     <listImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_1a4076f7e4ec/main.jpg</listImageData>
     <mainImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_1a4076f7e4ec/main.jpg</mainImageData>
