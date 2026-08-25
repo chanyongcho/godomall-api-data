@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <goods_data>
+    <goodsNo>1000000334</goodsNo>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm>비츠온 에디슨 G95 6W 골드</goodsNm>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <scmNo>1</scmNo>
+    <cateCd>025004</cateCd>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <taxFreeFl>t</taxFreeFl>
+    <taxPercent>10.0</taxPercent>
+    <totalStock>9999</totalStock>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <salesUnit>1</salesUnit>
+    <minOrderCnt>1</minOrderCnt>
+    <maxOrderCnt>0</maxOrderCnt>
+    <restockFl>n</restockFl>
+    <mileageFl>c</mileageFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <payLimitFl>n</payLimitFl>
+    <goodsPrice>2700.00</goodsPrice>
+    <optionFl>n</optionFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <deliverySno>1</deliverySno>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>n</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>0</detailInfoDelivery>
+    <detailInfoAS>0</detailInfoAS>
+    <detailInfoRefund>0</detailInfoRefund>
+    <detailInfoExchange>0</detailInfoExchange>
+    <allCateCd>025|025004</allCateCd>
+    <goodsNmList>비츠온 에디슨 G95 6W 골드</goodsNmList>
+    <goodsNmDetail>비츠온 에디슨 G95 6W 골드</goodsNmDetail>
+    <shortDescription>비츠온 에디슨 G95 6W 골드</shortDescription>
+    <goodsDescription>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail02.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail03.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail04.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail05.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail06.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail07.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescription>
+    <goodsDescriptionMobile>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail02.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail03.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail04.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail05.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail06.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_17e9a054401e/detail07.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescriptionMobile>
+    <imageStorage>url</imageStorage>
+    <imageUpdate>N</imageUpdate>
+  </goods_data>
+</data>
