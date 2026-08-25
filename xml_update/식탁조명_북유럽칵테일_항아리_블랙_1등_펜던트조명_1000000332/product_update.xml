@@ -15,7 +15,7 @@
     <scmNo>1</scmNo>
     <purchaseGoodsNm/>
     <applyFl>y</applyFl>
-    <applyType>r</applyType>
+    <applyType>m</applyType>
     <applyMsg/>
     <applyDt>0000-00-00 00:00:00</applyDt>
     <commission>0.00</commission>
@@ -100,8 +100,14 @@
     <addGoodsFl>n</addGoodsFl>
     <shortDescription>비츠온 1등 칵테일 항아리 블랙</shortDescription>
     <eventDescription/>
-    <goodsDescription>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescription>
-    <goodsDescriptionMobile>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescriptionMobile>
+    <goodsDescription>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail02.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail03.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail04.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescription>
+    <goodsDescriptionMobile>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail02.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail03.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail04.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescriptionMobile>
     <goodsDescriptionSameFl>y</goodsDescriptionSameFl>
     <deliverySno>1</deliverySno>
     <relationFl>n</relationFl>
@@ -151,7 +157,7 @@
     <plusReviewCnt>0</plusReviewCnt>
     <excelFl/>
     <regDt>2026-08-25 18:39:48</regDt>
-    <modDt/>
+    <modDt>2026-08-25 18:59:26</modDt>
     <goodsVolume>0.00</goodsVolume>
     <cremaReviewCnt>0</cremaReviewCnt>
     <naverReviewCnt>0</naverReviewCnt>
