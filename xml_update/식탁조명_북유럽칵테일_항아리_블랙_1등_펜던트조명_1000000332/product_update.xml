@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <goods_data idx="1">
+    <goodsNo>1000000332</goodsNo>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm>비츠온 1등 칵테일 항아리 블랙</goodsNm>
+    <goodsNmMain/>
+    <goodsNmList>비츠온 1등 칵테일 항아리 블랙</goodsNmList>
+    <goodsNmDetail>비츠온 1등 칵테일 항아리 블랙</goodsNmDetail>
+    <goodsNmPartner/>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <scmNo>1</scmNo>
+    <purchaseGoodsNm/>
+    <applyFl>y</applyFl>
+    <applyType>r</applyType>
+    <applyMsg/>
+    <applyDt>0000-00-00 00:00:00</applyDt>
+    <commission>0.00</commission>
+    <goodsCd/>
+    <cateCd>023003</cateCd>
+    <goodsSearchWord/>
+    <goodsOpenDt>0000-00-00 00:00:00</goodsOpenDt>
+    <goodsState>n</goodsState>
+    <goodsColor/>
+    <imageStorage>url</imageStorage>
+    <brandCd/>
+    <makerNm>비츠온</makerNm>
+    <originNm/>
+    <hscode/>
+    <goodsModelNo/>
+    <makeYmd>0000-00-00</makeYmd>
+    <launchYmd>0000-00-00</launchYmd>
+    <effectiveStartYmd>0000-00-00 00:00:00</effectiveStartYmd>
+    <effectiveEndYmd>0000-00-00 00:00:00</effectiveEndYmd>
+    <qrCodeFl>n</qrCodeFl>
+    <goodsPermission>all</goodsPermission>
+    <goodsPermissionGroup/>
+    <goodsPermissionPriceStringFl>n</goodsPermissionPriceStringFl>
+    <goodsPermissionPriceString/>
+    <onlyAdultFl>n</onlyAdultFl>
+    <onlyAdultDisplayFl>y</onlyAdultDisplayFl>
+    <onlyAdultImageFl>n</onlyAdultImageFl>
+    <goodsAccess>all</goodsAccess>
+    <goodsAccessGroup/>
+    <goodsAccessDisplayFl>y</goodsAccessDisplayFl>
+    <goodsMustInfo/>
+    <kcmarkInfo>{}</kcmarkInfo>
+    <taxFreeFl>t</taxFreeFl>
+    <taxPercent>10.0</taxPercent>
+    <cultureBenefitFl>n</cultureBenefitFl>
+    <goodsWeight>0.00</goodsWeight>
+    <totalStock>9999</totalStock>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <fixedSales>option</fixedSales>
+    <fixedOrderCnt>option</fixedOrderCnt>
+    <salesUnit>1</salesUnit>
+    <minOrderCnt>1</minOrderCnt>
+    <maxOrderCnt>0</maxOrderCnt>
+    <salesStartYmd>0000-00-00 00:00:00</salesStartYmd>
+    <salesEndYmd>0000-00-00 00:00:00</salesEndYmd>
+    <restockFl>n</restockFl>
+    <mileageFl>c</mileageFl>
+    <mileageGroup>all</mileageGroup>
+    <mileageGoods>0.00</mileageGoods>
+    <mileageGoodsUnit>percent</mileageGoodsUnit>
+    <mileageGroupInfo/>
+    <mileageGroupMemberInfo>{}</mileageGroupMemberInfo>
+    <goodsBenefitSetFl>n</goodsBenefitSetFl>
+    <benefitUseType>nonLimit</benefitUseType>
+    <newGoodsRegFl>regDt</newGoodsRegFl>
+    <newGoodsDate>0</newGoodsDate>
+    <newGoodsDateFl>day</newGoodsDateFl>
+    <periodDiscountStart>0000-00-00 00:00:00</periodDiscountStart>
+    <periodDiscountEnd>0000-00-00 00:00:00</periodDiscountEnd>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsDiscount>0.00</goodsDiscount>
+    <goodsDiscountUnit>percent</goodsDiscountUnit>
+    <fixedGoodsDiscount/>
+    <goodsDiscountGroup>all</goodsDiscountGroup>
+    <goodsDiscountGroupMemberInfo>{}</goodsDiscountGroupMemberInfo>
+    <exceptBenefit/>
+    <exceptBenefitGroup/>
+    <exceptBenefitGroupInfo/>
+    <payLimitFl>n</payLimitFl>
+    <payLimit/>
+    <goodsPriceString/>
+    <goodsPrice>17500.00</goodsPrice>
+    <fixedPrice>0.00</fixedPrice>
+    <costPrice>0.00</costPrice>
+    <optionFl>n</optionFl>
+    <optionDisplayFl>d</optionDisplayFl>
+    <optionName/>
+    <optionTextFl>n</optionTextFl>
+    <optionImagePreviewFl>n</optionImagePreviewFl>
+    <optionImageDisplayFl>n</optionImageDisplayFl>
+    <addGoodsFl>n</addGoodsFl>
+    <shortDescription>비츠온 1등 칵테일 항아리 블랙</shortDescription>
+    <eventDescription/>
+    <goodsDescription>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescription>
+    <goodsDescriptionMobile>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescriptionMobile>
+    <goodsDescriptionSameFl>y</goodsDescriptionSameFl>
+    <deliverySno>1</deliverySno>
+    <relationFl>n</relationFl>
+    <relationSameFl>n</relationSameFl>
+    <relationGoodsNo/>
+    <relationGoodsEach/>
+    <goodsIconStartYmd/>
+    <goodsIconEndYmd/>
+    <goodsIconCdPeriod/>
+    <goodsIconCd/>
+    <imgDetailViewFl>n</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <externalVideoUrl/>
+    <externalVideoWidth>0</externalVideoWidth>
+    <externalVideoHeight>0</externalVideoHeight>
+    <detailInfoDeliveryFl>no</detailInfoDeliveryFl>
+    <detailInfoDelivery>0</detailInfoDelivery>
+    <detailInfoDeliveryDirectInput/>
+    <detailInfoASFl>no</detailInfoASFl>
+    <detailInfoAS>0</detailInfoAS>
+    <detailInfoASDirectInput/>
+    <detailInfoRefundFl>no</detailInfoRefundFl>
+    <detailInfoRefund>0</detailInfoRefund>
+    <detailInfoRefundDirectInput/>
+    <detailInfoExchangeFl>no</detailInfoExchangeFl>
+    <detailInfoExchange>0</detailInfoExchange>
+    <detailInfoExchangeDirectInput/>
+    <seoTagFl>n</seoTagFl>
+    <naverFl>y</naverFl>
+    <daumFl>y</daumFl>
+    <paycoFl>y</paycoFl>
+    <naverImportFlag/>
+    <naverProductFlag/>
+    <naverAgeGroup>a</naverAgeGroup>
+    <naverGender/>
+    <naverTag/>
+    <naverAttribute/>
+    <naverCategory/>
+    <naverProductId/>
+    <memo/>
+    <orderCnt>0</orderCnt>
+    <orderGoodsCnt>0</orderGoodsCnt>
+    <hitCnt>1</hitCnt>
+    <cartCnt>0</cartCnt>
+    <wishCnt>0</wishCnt>
+    <reviewCnt>0</reviewCnt>
+    <plusReviewCnt>0</plusReviewCnt>
+    <excelFl/>
+    <regDt>2026-08-25 18:39:48</regDt>
+    <modDt/>
+    <goodsVolume>0.00</goodsVolume>
+    <cremaReviewCnt>0</cremaReviewCnt>
+    <naverReviewCnt>0</naverReviewCnt>
+    <naverNpayAble/>
+    <naverNpayAcumAble/>
+    <seoTagTitle/>
+    <seoTagAuthor/>
+    <seoTagDescription/>
+    <seoTagKeyword/>
+    <naverBrandCertFl/>
+    <naverBookFlag/>
+    <naverBookIsbn/>
+    <naverBookGoodsType/>
+    <detailImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/main.jpg</detailImageData>
+    <detailImageData idx="2">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery01.jpg</detailImageData>
+    <detailImageData idx="3">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery02.jpg</detailImageData>
+    <detailImageData idx="4">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery03.jpg</detailImageData>
+    <detailImageData idx="5">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery04.jpg</detailImageData>
+    <detailImageData idx="6">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery05.jpg</detailImageData>
+    <detailImageData idx="7">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery06.jpg</detailImageData>
+    <listImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/main.jpg</listImageData>
+    <magnifyImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/main.jpg</magnifyImageData>
+    <mainImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/main.jpg</mainImageData>
+    <allCateCd>023|023003</allCateCd>
+    <imageUpdate>N</imageUpdate>
+  </goods_data>
+</data>
