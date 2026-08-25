@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <goods_data>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm>비츠온 1등 칵테일 항아리 블랙</goodsNm>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <scmNo>1</scmNo>
+    <cateCd>023003</cateCd>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <taxFreeFl>t</taxFreeFl>
+    <taxPercent>10</taxPercent>
+    <totalStock>9999</totalStock>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <salesUnit>1</salesUnit>
+    <minOrderCnt>1</minOrderCnt>
+    <maxOrderCnt>0</maxOrderCnt>
+    <restockFl>n</restockFl>
+    <mileageFl>c</mileageFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <payLimitFl>n</payLimitFl>
+    <goodsPrice>17500</goodsPrice>
+    <optionFl>n</optionFl>
+    <optionDisplayFl>d</optionDisplayFl>
+    <optionName/>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <deliverySno>1</deliverySno>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>n</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>0</detailInfoDelivery>
+    <detailInfoAS>0</detailInfoAS>
+    <detailInfoRefund>0</detailInfoRefund>
+    <detailInfoExchange>0</detailInfoExchange>
+    <allCateCd>023003</allCateCd>
+    <goodsNmList>비츠온 1등 칵테일 항아리 블랙</goodsNmList>
+    <goodsNmDetail>비츠온 1등 칵테일 항아리 블랙</goodsNmDetail>
+    <shortDescription>비츠온 1등 칵테일 항아리 블랙</shortDescription>
+    <goodsDescription>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescription>
+    <goodsDescriptionMobile>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescriptionMobile>
+    <imageStorage>url</imageStorage>
+    <imageUpdate>Y</imageUpdate>
+    <makerNm>비츠온</makerNm>
+    <magnifyImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/main.jpg</magnifyImageData>
+    <listImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/main.jpg</listImageData>
+    <mainImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/main.jpg</mainImageData>
+    <detailImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/main.jpg</detailImageData>
+    <detailImageData idx="2">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery01.jpg</detailImageData>
+    <detailImageData idx="3">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery02.jpg</detailImageData>
+    <detailImageData idx="4">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery03.jpg</detailImageData>
+    <detailImageData idx="5">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery04.jpg</detailImageData>
+    <detailImageData idx="6">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery05.jpg</detailImageData>
+    <detailImageData idx="7">https://chanyongcho.github.io/godomall-api-data/assets/godo_b3898db3535d/gallery06.jpg</detailImageData>
+  </goods_data>
+</data>
