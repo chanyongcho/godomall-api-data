@@ -15,7 +15,7 @@
     <scmNo>1</scmNo>
     <purchaseGoodsNm/>
     <applyFl>y</applyFl>
-    <applyType>r</applyType>
+    <applyType>m</applyType>
     <applyMsg/>
     <applyDt>0000-00-00 00:00:00</applyDt>
     <commission>0.00</commission>
@@ -159,7 +159,7 @@
     <plusReviewCnt>0</plusReviewCnt>
     <excelFl/>
     <regDt>2026-08-26 20:46:29</regDt>
-    <modDt/>
+    <modDt>2026-08-26 21:03:10</modDt>
     <goodsVolume>0.00</goodsVolume>
     <cremaReviewCnt>0</cremaReviewCnt>
     <naverReviewCnt>0</naverReviewCnt>
