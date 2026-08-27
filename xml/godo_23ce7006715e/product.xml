@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <goods_data>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm>쎈룩스 1구 사각 델링 68mm(3인치) 일체형 DC 12W</goodsNm>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <scmNo>1</scmNo>
+    <cateCd>022002</cateCd>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <taxFreeFl>t</taxFreeFl>
+    <taxPercent>10</taxPercent>
+    <totalStock>9999</totalStock>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <salesUnit>1</salesUnit>
+    <minOrderCnt>1</minOrderCnt>
+    <maxOrderCnt>0</maxOrderCnt>
+    <restockFl>n</restockFl>
+    <mileageFl>c</mileageFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <payLimitFl>n</payLimitFl>
+    <goodsPrice>22000</goodsPrice>
+    <optionFl>y</optionFl>
+    <optionDisplayFl>d</optionDisplayFl>
+    <optionName>색상</optionName>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <deliverySno>1</deliverySno>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>n</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>0</detailInfoDelivery>
+    <detailInfoAS>0</detailInfoAS>
+    <detailInfoRefund>0</detailInfoRefund>
+    <detailInfoExchange>0</detailInfoExchange>
+    <allCateCd>022002</allCateCd>
+    <goodsNmList>쎈룩스 1구 사각 델링 68mm(3인치) 일체형 DC 12W</goodsNmList>
+    <goodsNmDetail>쎈룩스 1구 사각 델링 68mm(3인치) 일체형 DC 12W</goodsNmDetail>
+    <shortDescription>쎈룩스 1구 사각 델링 68mm(3인치) 일체형 DC 12W</shortDescription>
+    <goodsDescription>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail02.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail03.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail04.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail05.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail06.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail07.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail08.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescription>
+    <goodsDescriptionMobile>&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail01.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail02.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail03.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail04.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail05.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail06.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail07.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p style="margin:0;text-align:center;"&gt;&lt;img src="https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/detail08.jpg" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</goodsDescriptionMobile>
+    <imageStorage>url</imageStorage>
+    <imageUpdate>Y</imageUpdate>
+    <makerNm>동성조명</makerNm>
+    <optionData idx="1">
+      <optionNo>1</optionNo>
+      <optionValue1>주광색(하얀빛)</optionValue1>
+      <optionValue2/>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0</optionPrice>
+      <optionViewFl>y</optionViewFl>
+      <optionSellFl>y</optionSellFl>
+      <optionCode/>
+      <stockCnt>9999</stockCnt>
+    </optionData>
+    <optionData idx="2">
+      <optionNo>2</optionNo>
+      <optionValue1>주백색(태양빛)</optionValue1>
+      <optionValue2/>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0</optionPrice>
+      <optionViewFl>y</optionViewFl>
+      <optionSellFl>y</optionSellFl>
+      <optionCode/>
+      <stockCnt>9999</stockCnt>
+    </optionData>
+    <optionData idx="3">
+      <optionNo>3</optionNo>
+      <optionValue1>전구색(노란빛)</optionValue1>
+      <optionValue2/>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0</optionPrice>
+      <optionViewFl>y</optionViewFl>
+      <optionSellFl>y</optionSellFl>
+      <optionCode/>
+      <stockCnt>9999</stockCnt>
+    </optionData>
+    <magnifyImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/main.jpg</magnifyImageData>
+    <listImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/main.jpg</listImageData>
+    <mainImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/main.jpg</mainImageData>
+    <detailImageData idx="1">https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/main.jpg</detailImageData>
+    <detailImageData idx="2">https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/gallery01.jpg</detailImageData>
+    <detailImageData idx="3">https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/gallery02.jpg</detailImageData>
+    <detailImageData idx="4">https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/gallery03.jpg</detailImageData>
+    <detailImageData idx="5">https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/gallery04.jpg</detailImageData>
+    <detailImageData idx="6">https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/gallery05.jpg</detailImageData>
+    <detailImageData idx="7">https://chanyongcho.github.io/godomall-api-data/assets/godo_23ce7006715e/gallery06.jpg</detailImageData>
+  </goods_data>
+</data>
